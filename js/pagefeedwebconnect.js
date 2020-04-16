@@ -5,7 +5,9 @@
 
         var LIMIT = 100; //Number of records to bring back at any time
         //var BASEURL = 'ec2-35-173-222-150.compute-1.amazonaws.com' //base url of virtual directory
-        var BASEURL = 'https://alexfrancisross.github.io/FacebookWebDataConnector/' //base url of virtual directory
+        var BASEURL = 'https://rvd001.github.io/facebookwebdataconnector/' //base url of virtual directory
+        //https://rvd001.github.io/facebookwebdataconnector/.
+        //https://alexfrancisross.github.io/FacebookWebDataConnector/
 
         window.fbAsyncInit = function() {
             FB.init({
