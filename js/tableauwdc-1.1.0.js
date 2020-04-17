@@ -1,6 +1,6 @@
 (function() {
 
-    var versionNumber = "1.1.0";
+    var versionNumber = "2.3.0";
     var _sourceWindow;
 
     if (typeof tableauVersionBootstrap === 'undefined') {
