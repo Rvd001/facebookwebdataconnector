@@ -3,7 +3,7 @@
         var APP_ID = '176763440297215'; //Cndro Facebook APP ID
         //176763440297215
 
-        var LIMIT = 100; //Number of records to bring back at any time
+        var LIMIT = 80; //Number of records to bring back at any time
         //var BASEURL = 'ec2-35-173-222-150.compute-1.amazonaws.com' //base url of virtual directory
         var BASEURL = 'https://rvd001.github.io/facebookwebdataconnector/' //base url of virtual directory
         //https://rvd001.github.io/facebookwebdataconnector/.
